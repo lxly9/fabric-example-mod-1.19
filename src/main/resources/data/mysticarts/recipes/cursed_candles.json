@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#C#",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "mysticarts:echo_powder"
+    },
+    "C": {
+      "tag": "minecraft:candle"
+    }
+  },
+  "result": {
+    "item": "mysticarts:cursed_candle"
+  }
+}

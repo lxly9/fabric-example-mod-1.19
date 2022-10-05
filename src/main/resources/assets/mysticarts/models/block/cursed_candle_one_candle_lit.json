@@ -1,0 +1,7 @@
+{
+  "parent": "mysticarts:block/template_candle",
+  "textures": {
+    "all": "mysticarts:block/cursed_candle_lit",
+    "particle": "minecraft:block/candle_lit"
+  }
+}

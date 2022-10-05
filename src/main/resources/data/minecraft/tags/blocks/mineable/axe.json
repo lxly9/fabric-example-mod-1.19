@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "mysticarts:blessed_candle_block",
+    "mysticarts:cursed_candle_block"
+  ]
+}

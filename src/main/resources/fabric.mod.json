@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "mysticarts",
+  "version": "${version}",
+
+  "name": "Mystic Arts",
+  "description": "Ever thought enchanting was too OP? No? Too bad, I did. This mod overhauls enchanting by adding a ritual similar to Better End's Infusion Ritual!",
+  "authors": [
+    "Lily"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/mysticarts/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.lily.mystic.arts.MysticArts"
+    ]
+  },
+  "mixins": [
+
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "EMI"
+  }
+}
